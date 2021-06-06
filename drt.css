@@ -1,0 +1,27 @@
+.element1 {
+  width: 300px;
+  height: 750px;
+  background: none;
+  display:block;
+margin-top: 555px;
+position: absolute;
+    margin-left: 555px;
+    z-index: 10000;
+}
+
+.element4 {
+  float: right;
+  margin-top: 0px;
+     display:block;
+     
+}
+#elemet5 {
+  display: block;
+     position: fixed;
+     z-index: 100000; 
+}
+#elemet6 {
+  clear:both; 
+     margin: -100px 0px 0px 105px;
+     position:absolute; 
+}
